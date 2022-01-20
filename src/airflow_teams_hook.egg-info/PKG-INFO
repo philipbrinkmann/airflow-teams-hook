@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: airflow-teams-hook
+Version: 0.0.1
+Summary: Custom Webhooks for Airflow Callbacks into MS Teams
+Home-page: https://github.com/pypa/sampleproject
+Author: Philip Brinkmann
+Author-email: philip.brinkmann@de.sasol.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache License 2.0
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Airflow Teams Hook
+
+This is a simple package to allow custom webhooks into MS Teams to be installed into an Apache Airflow
+installation. The code for the hook and operator were taken from [mendhak](https://github.com/mendhak/Airflow-MS-Teams-Operator)
+on GitHub.
+
+
