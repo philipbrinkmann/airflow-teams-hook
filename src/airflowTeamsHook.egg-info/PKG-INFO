@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: airflow-teams-hook
-Version: 0.0.1
+Name: airflowTeamsHook
+Version: 0.0.2
 Summary: Custom Webhooks for Airflow Callbacks into MS Teams
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/philipbrinkmann/airflow-teams-hook
 Author: Philip Brinkmann
 Author-email: philip.brinkmann@de.sasol.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Bug Tracker, https://github.com/philipbrinkmann/airflow-teams-hook/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: Apache License 2.0

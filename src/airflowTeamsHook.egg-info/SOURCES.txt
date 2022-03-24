@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/airflowTeamsHook/__init__.py
+src/airflowTeamsHook/callbacks.py
+src/airflowTeamsHook/hook.py
+src/airflowTeamsHook/operator.py
+src/airflowTeamsHook.egg-info/PKG-INFO
+src/airflowTeamsHook.egg-info/SOURCES.txt
+src/airflowTeamsHook.egg-info/dependency_links.txt
+src/airflowTeamsHook.egg-info/top_level.txt

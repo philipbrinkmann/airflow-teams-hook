@@ -21,7 +21,7 @@
 #
 from airflow.operators.http_operator import SimpleHttpOperator
 from airflow.utils.decorators import apply_defaults
-from hook import MSTeamsWebhookHook
+from airflowTeamsHook.hook import MSTeamsWebhookHook
 import logging
 
 class MSTeamsWebhookOperator(SimpleHttpOperator):
