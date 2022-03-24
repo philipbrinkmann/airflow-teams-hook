@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: airflow-teams-hook
-Version: 0.0.1
+Version: 0.0.2
 Summary: Custom Webhooks for Airflow Callbacks into MS Teams
 Home-page: https://github.com/pypa/sampleproject
 Author: Philip Brinkmann
